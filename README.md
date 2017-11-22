@@ -1,2 +1,2 @@
 # GithubEvent
-Taller sobre Git y Github
+Taller aún mejor sobre Git y Github!
